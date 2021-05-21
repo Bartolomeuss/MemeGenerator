@@ -4,11 +4,8 @@ import MemeGenerator from './MemeGenerator'
 
 function App() {
   return (
-    <div>
-      <Header />
-      <MemeGenerator />
-    </div>
-    
+    <Header />
+    <MemeGenerator />
   );
 }
 
