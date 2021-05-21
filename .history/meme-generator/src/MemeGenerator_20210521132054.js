@@ -26,9 +26,7 @@ class MemeGenerator extends Component {
                     <div className="meme-form">
                         <form>
                             <input type="text" name="topText" placeholder="top text"/>
-                            <br />
-                            <input type="text" name="bottomText" placeholder="bottom text"/>
-                            <br />
+
                             <button>Gen</button>
                         </form>
                     </div>
